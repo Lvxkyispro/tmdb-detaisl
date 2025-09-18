@@ -18,7 +18,7 @@ Designed for **anime projects**, but works for all media.
 ## 🛠️ Setup
 
 ### 1. Deploy with one click
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/yourusername/tmdb-vercel&env=TMDB_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/lvxkyispro/tmdb-detaisl&env=TMDB_API_KEY)
 
 ### 2. Or manual
 ```bash
