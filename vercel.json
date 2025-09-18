@@ -7,6 +7,6 @@
     }
   },
   "env": {
-    "TMDB_API_KEY": "@tmdb_api_key"
+    "TMDB_API_KEY": "8452fead25d0dd27fd24c19fefdde496"
   }
 }
